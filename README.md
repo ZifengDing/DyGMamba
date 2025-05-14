@@ -1,9 +1,9 @@
 # DyGMamba: Efficiently Modeling Long-Term Temporal Dependency on Continuous-Time Dynamic Graphs with State Space Models
-This repository is built for the paper DyGMamba: Efficiently Modeling Long-Term Temporal Dependency on Continuous-Time Dynamic Graphs with State Space Models
+This repository is built for our TMLR paper DyGMamba: Efficiently Modeling Long-Term Temporal Dependency on Continuous-Time Dynamic Graphs with State Space Models
 
 
 ## Dynamic Graph Learning Models
-The directory contains seven benchmark dataset and our work *DyGMamba*, which is an efficient continuous-time dynamic graph(CTDG) representation learning model that can capture long-term temporal dependencies. It also contains previous CTDG learning methods, including *JODIE*,*DyRep*,*TGAT*,*TGN*,*CAWN*,*TCL*,*GrapnMixer* and *DyGFormer*. 
+The directory contains seven benchmark dataset and our work *DyGMamba*, which is an efficient continuous-time dynamic graph(CTDG) representation learning model that can capture long-term temporal dependencies. It also contains previous CTDG learning methods, including *JODIE*, *DyRep*, *TGAT*, *TGN*, *CAWN*, *TCL*, *GrapnMixer* and *DyGFormer*. 
 
 
 ## Evaluation Tasks
